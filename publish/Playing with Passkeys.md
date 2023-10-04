@@ -1,3 +1,7 @@
+---
+title: 
+tags:
+---
 
 I recently started using Tailscale, as [[James V]] recommended, to connect to devices at home when I'm away remotely. I was looking to use the ledger as my pass key solution, but it's proven inconsistent and doesn't work well over NFC. So, for now, moving on to ordering some more official keys.
 

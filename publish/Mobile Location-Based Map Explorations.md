@@ -1,3 +1,7 @@
+---
+title: 
+tags:
+---
 Exploring resources and methods for building location-based sound experiences.
 
 

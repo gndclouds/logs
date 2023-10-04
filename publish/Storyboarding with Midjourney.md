@@ -1,3 +1,10 @@
+---
+title: Storyboarding with Midjourney
+tags: 
+Date: 2023-10-03
+type: 
+public: true
+---
 
 
 Frequently, I don't publish my work because it doesn't meet a certain quality bar that I want my work to have in the world. But I've been trying to find new ways to get back to the mentality I had at school, in which I was significantly scrappier and published smaller things more frequently. While thinking about what this could look like for [[Inter Tidal]] I wanted to document the process used to make a storyboard to capture the core ideas around the concept.
