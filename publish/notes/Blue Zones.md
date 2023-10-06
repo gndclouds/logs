@@ -1,8 +1,8 @@
 ---
 title: Blue Zones
-publishedAt:
+publishedAt: 
 type:
   - Note
-published: flase
+published: false
 tags:
 ---

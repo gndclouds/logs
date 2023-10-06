@@ -1,9 +1,9 @@
 ---
 title: Interactive Objects
-publishedAt:
+publishedAt: 
 type:
   - Note
-published: flase
+published: 
 tags:
 ---
 
