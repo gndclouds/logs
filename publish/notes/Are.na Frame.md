@@ -1,6 +1,6 @@
 ---
 title: Arena Frame
-publishedAt: 2023-09-30
+publishedAt: 2023-09-30T01:00:00
 type:
   - Note
 published: true

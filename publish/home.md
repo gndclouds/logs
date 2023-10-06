@@ -1,6 +1,6 @@
 ---
 title: Home
-publishedAt: 2016-03-18
+publishedAt: 2016-03-18T01:00:00
 type:
   - Note
 published: true

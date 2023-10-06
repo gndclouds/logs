@@ -1,6 +1,6 @@
 ---
 title: Storyboarding with Midjourney
-publishedAt: 2023-10-03
+publishedAt: 2023-10-03T01:00:00
 type:
   - Note
 published: true

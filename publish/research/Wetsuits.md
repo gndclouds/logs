@@ -1,9 +1,9 @@
 ---
 title: Wetsuits
-publishedAt: 2023-05-23
+publishedAt: 2023-05-23T01:00:00
 type:
   - Note
-published: 
+published:
 tags:
 ---
 

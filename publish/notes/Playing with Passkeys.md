@@ -1,6 +1,6 @@
 ---
 title: Playing with Passkeys
-publishedAt: 2023-06-08
+publishedAt: 2023-06-08T01:00:00
 type:
   - Note
 published: true

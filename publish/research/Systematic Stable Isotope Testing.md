@@ -1,6 +1,6 @@
 ---
 title: Systematic Stable Isotope Testing
-publishedAt: 2023-09-06
+publishedAt: 2023-09-06T01:00:00
 type:
   - Note
 published: true

@@ -1,9 +1,9 @@
 ---
 title: Interactive Objects
-publishedAt: 2023-03-03
+publishedAt: 2023-03-03T01:00:00
 type:
   - Note
-published: 
+published:
 tags:
 ---
 
