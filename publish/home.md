@@ -1,5 +1,9 @@
 ---
 title: Home
+publishedAt: 2023-05-18
+type:
+published: true
+tags:
 ---
 
 
