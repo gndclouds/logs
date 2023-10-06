@@ -1,10 +1,5 @@
 ---
 title: Home
-publishedAt:
-type:
-  - Note
-published: true
-tags:
 ---
 
 
