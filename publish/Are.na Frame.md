@@ -1,7 +1,13 @@
 ---
-tags:
-  - physical-computing
+title: Arena Frame
+publishedAt:
+type:
+  - Note
+published: true
+tags: physical-computing
 ---
+
+
 Sure, creating an app for your Raspberry Pi and its HyperPixel display that interfaces with the Are.na API sounds like an exciting project. Here's a basic outline to get you started:
 
 ### Prerequisites:
@@ -22,13 +28,13 @@ Sure, creating an app for your Raspberry Pi and its HyperPixel display that inte
    - You'll use the `requests` library to fetch data from your Are.na channel.
 
 3. **GUI with Kivy**:
-   Kivy is a popular Python library for creating GUIs on the Raspberry Pi. 
+   Kivy is a popular Python library for creating GUIs on the Raspberry Pi.
 
    ```python
    from kivy.app import App
    from kivy.uix.boxlayout import BoxLayout
    import requests
-   
+
    class ArenaApp(App):
 
        def build(self):

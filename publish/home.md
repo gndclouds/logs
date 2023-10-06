@@ -1,8 +1,12 @@
 ---
-title: "An Extendable Obsidian Publish alternative using Next.JS"
-excerpt: "Create your own template or use someone else's. Changing the template is a matter of updating one line"
+title: Home
+publishedAt:
+type:
+  - Note
+published: true
+tags:
 ---
 
 
-Did this work now?
 
+Your probally looking for [gndclouds.earth/thoughts](https://gndclouds.earth/thoughts) ↗

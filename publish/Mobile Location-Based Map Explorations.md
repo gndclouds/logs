@@ -1,7 +1,13 @@
 ---
-title: 
+title: Mobile Location-Based Map Explorations
+publishedAt:
+type:
+  - Note
+published: false
 tags:
 ---
+
+
 Exploring resources and methods for building location-based sound experiences.
 
 
@@ -9,14 +15,14 @@ Exploring resources and methods for building location-based sound experiences.
 # **Unreal**
 
 ### Examples
-- [Build a Location based game in 20 Minutes](https://www.youtube.com/watch?v=-RMdkG0VL4A) 
-- 
+- [Build a Location based game in 20 Minutes](https://www.youtube.com/watch?v=-RMdkG0VL4A)
+-
 
 
 # **Unity**
 
 ### Examples
-- 
+-
 
 
 
@@ -31,5 +37,4 @@ Exploring resources and methods for building location-based sound experiences.
 - [Swift Geolocation: An Overview](https://www.abstractapi.com/guides/swift-geolocation)
 - [Building a Geo Targeting iOS App in Swift](https://www.appcoda.com/geo-targeting-ios/)
 - [Building A Location-Based App With MapKit And Core Location In Swift](https://www.momentslog.com/development/ios/building-a-location-based-app-with-mapkit-and-core-location-in-swift)
-- 
-
+-

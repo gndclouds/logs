@@ -1,8 +1,12 @@
 ---
-title: 
-tags:
-  - learning-log
+title: Protocols
+publishedAt:
+type:
+  - Note
+published: true
+tags: log/learning
 ---
+
 
 
 # Web One
@@ -36,28 +40,28 @@ The history of web protocols is a vast topic, and it traces back the origins of 
 ### 6. **SSL (Secure Sockets Layer)**:
 
 - **Origins**: Developed by Netscape in the mid-1990s.
-    
+
 - **Function**: SSL is a security protocol that provides privacy and data integrity between two communicating applications (e.g., a web server and a browser). It's the precursor to TLS (Transport Layer Security).
-    
+
 
 ### 7. **CGI (Common Gateway Interface)**:
 
 - **Origins**: Introduced in the early 1990s.
-    
+
 - **Function**: CGI provides a standard protocol for web servers to execute programs (like console applications) that execute on a server, generating dynamic content.
-    
+
 
 ### 8. **DNS (Domain Name System)**:
 
 - **Origins**: Introduced in the 1980s.
-    
+
 - **Function**: DNS translates domain names to IP addresses so browsers can load resources. It's essentially the phonebook of the internet.
-    
+
 
 This list of protocols provides a basic understanding of the foundation on which Web 1.0 was built. These technologies, combined with a growing interest in personal websites, forums, and later on, blogs, shaped the early days of the internet before it evolved into the dynamic, user-generated content platform of Web 2.0.
 
 
-Tagged 
+Tagged
 
 ```dataview
 TABLE type

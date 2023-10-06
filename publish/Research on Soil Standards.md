@@ -1,7 +1,13 @@
 ---
-title: 
+title: Research on Soil Standards
+publishedAt:
+type:
+  - Note
+published: true
 tags:
 ---
+
+
 
 Ok so IDK how this will all be relevant but going to compile what I have learned about **soil and trees** and log it all here to try to surface some more questions for Melissa and Alison.
 
@@ -10,7 +16,7 @@ Ok so IDK how this will all be relevant but going to compile what I have learned
 # Measurement Practices and Standards
 
 
->Scientists employ a process called “downscaling” to translate coarse-resolution climate projections into higher-resolution climate data at a scale that resolves the most influential climatic variations and removes biases with respect to historical observations. In general terms, statistical downscaling involves “training” a model on the statistical relationship between a GCM and an observational dataset over a historical period, and then applying that model to generate future predictions.4 The downscaled data can then provide input into downstream impact models and risk assessment (Figure 2).[^1] 
+>Scientists employ a process called “downscaling” to translate coarse-resolution climate projections into higher-resolution climate data at a scale that resolves the most influential climatic variations and removes biases with respect to historical observations. In general terms, statistical downscaling involves “training” a model on the statistical relationship between a GCM and an observational dataset over a historical period, and then applying that model to generate future predictions.4 The downscaled data can then provide input into downstream impact models and risk assessment (Figure 2).[^1]
 
 National Space agencies are using data lights to fill in the gaps in global climate models (GCM's). NASA's [OCO-2](https://en.wikipedia.org/wiki/Orbiting_Carbon_Observatory_2) and Japan's [GOSAT](https://en.wikipedia.org/wiki/Greenhouse_Gases_Observing_Satellite) are two of the leaders in the measurement space.
 
@@ -30,15 +36,15 @@ It could be interesting to attend this conference at some point, but I feel like
 >**Infrastructure for developing practices** for collective imagination, like the Community of Practice we’ve created.[^6]
 
 
-[[Planet Scale]] is working on releasing hyperspectral imaging on their satellites at a — pixel to — better resolution. So I’m thinking we could work on modeling environments more at a component level. Maybe we don’t look at an ‘ecosystem’ but instead, we model a 5x5 meter plot with a mix of live sensor data and secondary data light satellite images. 
+[[Planet Scale]] is working on releasing hyperspectral imaging on their satellites at a — pixel to — better resolution. So I’m thinking we could work on modeling environments more at a component level. Maybe we don’t look at an ‘ecosystem’ but instead, we model a 5x5 meter plot with a mix of live sensor data and secondary data light satellite images.
 
- 
+
 
 ## Standards
 
 Still looking into the standards used, but there are two (SOUCE) very manual ways of accounting for soil sample collection. There was a [[U.S. Soil Enrichment Protocol]] created, but it looks like there is some controversy[^5] around the organization that funded the research, according to [[places/Archive/CarbonPlan]]. In [[A buyer’s guide to soil carbon offsets]] they reference how most existing protocols focus specifically on identifying how much carbon is captured they don't necessarily account for total soil health. This seems to be because the focus is around carbon sequestration through agriculture and emergent funding around that through the purchasing of carbon offsets. However, I'm still looking for a standard, which specifically identifies the soil health, or by the regional health of an ecosystem in a way that is measured. They later published and additional changes in *[[Additions to Our Analysis of Soil Carbon Protocols]]* they recommended some updates to the protocols.
 
-[[Pony Earth]] is working on collecting data from farms and using the data to make *reart* as a way to fund the project and work on regenerating farms 
+[[Pony Earth]] is working on collecting data from farms and using the data to make *reart* as a way to fund the project and work on regenerating farms
 
 
 
@@ -51,7 +57,7 @@ DeepSD
 
 GARD11
 
-## Sampling 
+## Sampling
 
 There is a project called world forest ID which is using [stable isotope testing](https://en.wikipedia.org/wiki/Stable_isotope_ratio) to identify were and when wood is illegally harvested. The [Forest Stewardship Council](https://fsc.org/en) has been using this as part of their work to certify and trace source materials in commonly exploited portions of the wood industry.
 
@@ -69,7 +75,7 @@ What would be impact be of working on legislation to force DARPA to offset their
 
 > There are also major climate benefits. Soil holds more carbon in it than all living vegetation and the atmosphere put together.[^4]
 
-Forever Chemicals are impacting a lot agriculture systems [^2][^3] but the sludge they are in often is not regulated in the same way as fertilizers. But some states like #Maine and #place/Michigan are starting to limit or hult the practice all together. Sludge can also be as much as 1%[^3] of total sledge weight. 
+Forever Chemicals are impacting a lot agriculture systems [^2][^3] but the sludge they are in often is not regulated in the same way as fertilizers. But some states like #Maine and #place/Michigan are starting to limit or hult the practice all together. Sludge can also be as much as 1%[^3] of total sledge weight.
 
 
 
@@ -88,7 +94,7 @@ Forever Chemicals are impacting a lot agriculture systems [^2][^3] but the sludg
 
 ### USDA
 
-### EU Commission 
+### EU Commission
 funding [research on soil health](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/eu-missions-horizon-europe/soil-health-and-food_en).
 
 ![[CleanShot 2023-06-18 at 16.06.01@2x.png]]
@@ -102,7 +108,7 @@ funding [research on soil health](https://research-and-innovation.ec.europa.eu/f
 - Teach farmers, how to create biodynamic farms, which replenish watersheds and restore, nutrients to soil systems
 - Take down, Monsanto literally anything to take down Monsanto maybe we measure the impact of soil quality before, and after the use of their pesticides to create a class action lawsuit that communicates the captive incentive structure that Monsanto place is farmers in
 - Buy a bunch of forests and allow them to own themselves based on the amount of carbon that they are sequestering by not being cut down or farmed
-- 
+-
 
 
 
@@ -112,14 +118,14 @@ funding [research on soil health](https://research-and-innovation.ec.europa.eu/f
 Conservation vs reduction Redis
 
 
-USDA provides around 1 billion dollars a year for conservation practices 
+USDA provides around 1 billion dollars a year for conservation practices
 - Focuses on soil
 - NRCS and regional conversation district
 
 # Foot
 Notes
 
-[^1]: [[Open Data and Tools for Multiple Methods of Global Climate Downscaling]] 
+[^1]: [[Open Data and Tools for Multiple Methods of Global Climate Downscaling]]
 [^2]: [[EWG ‘Forever Chemicals’ May Taint Nearly 20 Million Cropland Acres]]
 [^3]: [[Why You Are Probably Eating Plastic]]
 [^4]: [[Whole Earth Discipline]]

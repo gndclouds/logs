@@ -1,3 +1,11 @@
+---
+title: Interactive Objects
+publishedAt:
+type:
+  - Note
+published: flase
+tags:
+---
 
 
 
@@ -17,23 +25,23 @@ Inky
 
 
 
-Touch screen 
+Touch screen
 
 
-Pixels 
+Pixels
 
 
-Sensor 
+Sensor
 
 # **Inky Display Small**
 
 Part:
-- 
+-
 
 # **Square Touch Screen**
 
 Part
-- 
+-
 
 
 
@@ -59,4 +67,4 @@ Parts:
 user: pi
 
 PartsL
-- 
+-

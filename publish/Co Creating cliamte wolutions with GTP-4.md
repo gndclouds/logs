@@ -1,9 +1,14 @@
 ---
-title: 
+title: Co Creating cliamte wolutions with GTP-4
+publishedAt:
+type:
+  - Note
+published: false
 tags:
 ---
 
-Before going on, I recommend you read ... and ... to  clarity onTP is not general intelligence. This article aims to expose possible ways to use GTP as an extension of my brain to undto better understand ip climate solutions. 
+
+Before going on, I recommend you read ... and ... to  clarity onTP is not general intelligence. This article aims to expose possible ways to use GTP as an extension of my brain to undto better understand ip climate solutions.
 
 My intended role is to help communicate climate science into actional information for anyone who needs it to make tomorrow's products.
 

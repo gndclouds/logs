@@ -1,9 +1,10 @@
 ---
 title: Storyboarding with Midjourney
-tags: 
-Date: 2023-10-03
-type: 
-public: true
+publishedAt: 2023-10-03
+type:
+  - Note
+published: true
+tags:
 ---
 
 
@@ -50,4 +51,3 @@ Then we could explore a new version of the prompts which help us start to get th
 a colorful blue-green petri dish with microbes and other things on it, in the style of nick veasey, organic forms, muted tones, microscopic views, molecular, anne geddes, light beige and pink, sam francis --ar 108:97 -
 ```
 ![[Pasted image 20230626160803.png]]
-

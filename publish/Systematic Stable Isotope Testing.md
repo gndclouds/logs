@@ -1,3 +1,11 @@
+---
+title: Systematic Stable Isotope Testing
+publishedAt:
+type:
+  - Note
+published: true
+tags:
+---
 
 Uses
 

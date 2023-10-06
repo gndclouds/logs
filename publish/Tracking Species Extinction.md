@@ -1,10 +1,14 @@
 ---
 title: Tracking Species Extinction
+publishedAt:
+type:
+  - Note
+published: true
 tags:
 ---
 
 
-Started Reading [[Insolvent]] was caught by this quote, 
+Started Reading [[Insolvent]] was caught by this quote,
 
 <blockquote class="quoteback" darkmode="" data-title="Insolvent" data-author="Christopher Becker" cite="Highlight](https://read.readwise.io/read/01hbv9j393vmv6fybqqc0tbvp1)">
 *One million animal and plant species are now on the fast track to extinction*
@@ -16,7 +20,7 @@ That number just feels so massive. So I started a little research rabbit hole an
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Community Request: Looking for a database of species and their rate of extinction if anyone knows of or comes across one.</p>&mdash; gndclouds 🌿🍄🌎🍵 (@gndclouds) <a href="https://twitter.com/gndclouds/status/1709261520293736516?ref_src=twsrc%5Etfw">October 3, 2023</a></blockquote>
 
-# Main Organizations: 
+# Main Organizations:
 
 1. [[IUCN Red List of Threatened Species]]: This is one of the most comprehensive sources for information on the global extinction risk of species. The list categorizes species based on their extinction risk, ranging from “Least Concern” to “Critically Endangered.”
 2. [[BirdLife International]]: Focuses primarily on birds, and it provides detailed assessments of the conservation status of bird species worldwide.
