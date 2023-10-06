@@ -1,11 +1,12 @@
 ---
 title: Home
-publishedAt: 2023-05-18
+publishedAt: 2016-03-18
 type:
+  - Note
 published: true
 tags:
 ---
 
 
 
-Your probally looking for [gndclouds.earth/thoughts](https://gndclouds.earth/thoughts) ↗
+Your probably looking for [gndclouds.earth/thoughts](https://gndclouds.earth/thoughts) ↗
