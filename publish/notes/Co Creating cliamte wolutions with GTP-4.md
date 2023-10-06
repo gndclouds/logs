@@ -1,6 +1,6 @@
 ---
 title: Co Creating cliamte wolutions with GTP-4
-publishedAt:
+publishedAt: 2023-03-17
 type:
   - Note
 published: false

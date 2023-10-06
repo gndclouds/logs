@@ -1,10 +1,11 @@
 ---
 title: Protocols
-publishedAt:
+publishedAt: 2023-09-06
 type:
   - Note
 published: true
-tags: log/learning
+tags:
+  - log/learning
 ---
 
 

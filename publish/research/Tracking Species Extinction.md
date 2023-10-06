@@ -1,6 +1,6 @@
 ---
 title: Tracking Species Extinction
-publishedAt:
+publishedAt: 2023-10-03
 type:
   - Note
 published: true

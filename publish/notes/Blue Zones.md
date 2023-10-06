@@ -1,6 +1,6 @@
 ---
 title: Blue Zones
-publishedAt: 
+publishedAt: 2023-09-06
 type:
   - Note
 published: false

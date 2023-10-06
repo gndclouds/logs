@@ -1,10 +1,11 @@
 ---
 title: Arena Frame
-publishedAt:
+publishedAt: 2023-09-30
 type:
   - Note
 published: true
-tags: physical-computing
+tags:
+  - physical-computing
 ---
 
 

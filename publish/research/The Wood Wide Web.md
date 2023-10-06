@@ -1,6 +1,6 @@
 ---
 title: The Wood Wide Web
-publishedAt:
+publishedAt: 2023-09-13
 type:
   - Note
 published: true

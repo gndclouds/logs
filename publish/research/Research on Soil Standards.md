@@ -1,6 +1,6 @@
 ---
 title: Research on Soil Standards
-publishedAt:
+publishedAt: 2022-12-07
 type:
   - Note
 published: true
