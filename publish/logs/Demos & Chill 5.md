@@ -6,7 +6,7 @@ type:
 published: true
 tags:
 ---
-π@SDG
+@SDG
 
 ![[IMG_3577.jpeg]]
 Matt pinch to zoom effect a 
