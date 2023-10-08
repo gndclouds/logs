@@ -2,7 +2,7 @@
 title: IFTTT Maker Platform
 publishedAt: 2023-05-09
 type:
-  - project
+  - Project
 status: published
 tags:
 ---
