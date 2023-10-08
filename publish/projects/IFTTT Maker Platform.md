@@ -6,7 +6,7 @@ type:
 published: true
 tags:
 ---
-In June of 2017 I lead user research phase to determine the viability for a new product called [Maker Platform](http://platform.ifttt.com/maker). Established and managed the first community of makers who used IFTTT. Documented and developed case studies to determine how IFTTT’s products could evolve to better match the demand of IOT and affiliated systems. Included is a selected set of work.
+In June of 2017 I lead user researπch phase to determine the viability for a new product called [Maker Platform](http://platform.ifttt.com/maker). Established and managed the first community of makers who used IFTTT. Documented and developed case studies to determine how IFTTT’s products could evolve to better match the demand of IOT and affiliated systems. Included is a selected set of work.
 
 # Intro
 
