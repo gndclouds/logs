@@ -1,3 +1,11 @@
+---
+title: Mind Palace Fabrication
+publishedAt: 
+type:
+  - Note
+published: true
+tags:
+---
 Some way of referring to or defining the direction of these projects:
 
 1. **Physical Computing**: This refers to the creation of interactive systems that can sense and respond to the world around them. An example might be creating a device that lights up or moves based on certain tweets or digital triggers.
