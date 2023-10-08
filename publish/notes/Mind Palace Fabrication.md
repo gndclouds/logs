@@ -1,6 +1,6 @@
 ---
 title: Mind Palace Fabrication
-publishedAt: 
+publishedAt: 2023-01-10T01:01:00
 type:
   - Note
 published: true
