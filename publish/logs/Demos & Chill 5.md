@@ -1,4 +1,12 @@
-@SDG
+---
+title: Demos & Chill 5
+publishedAt: 2023-10-07T01:00:00
+type:
+  - Log
+published: true
+tags:
+---
+π@SDG
 
 ![[IMG_3577.jpeg]]
 Matt pinch to zoom effect a 
