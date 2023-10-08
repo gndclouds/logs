@@ -9,13 +9,6 @@ tags:
 
 
 
-Ok so IDK how this will all be relevant but going to compile what I have learned about **soil and trees** and log it all here to try to surface some more questions for Melissa and Alison.
-
-*I think I'm  to learn from Trees and Apply that system to soil.*
-
-# Measurement Practices and Standards
-
-
 >Scientists employ a process called “downscaling” to translate coarse-resolution climate projections into higher-resolution climate data at a scale that resolves the most influential climatic variations and removes biases with respect to historical observations. In general terms, statistical downscaling involves “training” a model on the statistical relationship between a GCM and an observational dataset over a historical period, and then applying that model to generate future predictions.4 The downscaled data can then provide input into downstream impact models and risk assessment (Figure 2).[^1]
 
 National Space agencies are using data lights to fill in the gaps in global climate models (GCM's). NASA's [OCO-2](https://en.wikipedia.org/wiki/Orbiting_Carbon_Observatory_2) and Japan's [GOSAT](https://en.wikipedia.org/wiki/Greenhouse_Gases_Observing_Satellite) are two of the leaders in the measurement space.
