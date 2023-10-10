@@ -1,5 +1,6 @@
 ---
 title: arena2slides
+description: 
 publishedAt: 2023-05-09
 type:
   - Project
