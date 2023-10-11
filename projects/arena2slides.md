@@ -1,10 +1,12 @@
 ---
 title: arena2slides
-description: 
-publishedAt: 2023-05-09
+description: Make a slide presentation from any are.na collection by pasting the url below.
+publishedAt: 2020-04-24T00:00:00
 type:
   - Project
-published: false
+published: true
 tags: 
-url:
+url: https://arena2slides.herokuapp.com/
+heroImage:
 ---
+Make a slide presentation from any [are.na](https://www.are.na/tiny-factories) collection by pasting the url below.

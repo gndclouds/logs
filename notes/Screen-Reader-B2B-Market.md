@@ -3,8 +3,9 @@ title: Screen Reader B2B Market
 publishedAt: 2019-11-24T01:00:00
 type:
   - Note
-published: false
+published: true
 tags:
+  - research
 ---
 # Overview
 

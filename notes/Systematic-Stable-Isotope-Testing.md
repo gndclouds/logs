@@ -5,6 +5,7 @@ type:
   - Note
 published: true
 tags:
+  - research
 ---
 
 Uses

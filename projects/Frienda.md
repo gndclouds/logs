@@ -1,10 +1,11 @@
 ---
 title: Frienda
-description: 
-publishedAt: 2023-05-09
+description: Ever wanted to share a confidential secret? Now you can!
+publishedAt: 2019-08-22T01:00:00
 type:
   - Project
-published: false
+published: true
 tags: 
-url:
+url: https://www.producthunt.com/products/friend-nda-generator#friend-nda-generator
+heroImage:
 ---

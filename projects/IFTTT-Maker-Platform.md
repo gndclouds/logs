@@ -6,30 +6,29 @@ type:
   - Project
 published: true
 tags: 
-url:
+url: 
+heroImage:
 ---
-In June of 2017 I lead user research phase to determine the viability for a new product called [Maker Platform](http://platform.ifttt.com/maker). Established and managed the first community of makers who used IFTTT. Documented and developed case studies to determine how IFTTT’s products could evolve to better match the demand of IOT and affiliated systems. Included is a selected set of work.
+In June 2017 I led user research phase to determine the viability of a new product called [Maker Platform](http://platform.ifttt.com/maker). Established and managed the first community of makers who used IFTTT. Documented and developed case studies to determine how IFTTT’s products could evolve to better match the demand of IOT and affiliated systems. Included is a selected set of work.
 
 # Intro
 
 During my two-month contract with IFTTT I worked with the Platform team and Marketing team to research a new tool that was being released to makers called the Maker Platform. The tools was a variant of what was offered to IFTTT partners like Nest, Microsoft, etc. with a few modifications. The goal was to research the product with an alpha and beta testing community as it was in active development.
 
 # Research
-
+![[IFTTT Community Landscape.png]]
 During the research phase I conducted research interviews to determine how makers, individuals who created their own Applets on ifttt.com, currently used the platform and what we could do to allow them to make even more awesome Applets. After interviewing participants over a course of a few weeks I created a research readout to act as a summary of findings form internal and external user research, secondary research, FullStory sessions, and ongoing community engagement with the Maker Platform Beta. Below I have included selected assets from the research.
 
-Landscape of Content Producer Profiles  
-![](https://v3.gndclouds.cc/content/images/2017/07/ifttt-community-landscape-1.png)
 
 ### Evolution of IFTTT FORMULA
-
+![[Evolution of Formula.png]]
 Many alternatives to IFTTT have focused on features as IFTTT has focused on building a network of services users love. This particular project focused on providing and building some of “expected features” back into the IFTTT platform. There was a need to highlight the evolution of the IFTTT formula as part of the research identified a need to contextualize where the IF This Then That formula started and where it is going in order to understand the needed infrastructure to support users.  
-![ ](https://v3.gndclouds.cc/content/images/2017/07/Evolution-of-Formula.png)
 
 ### Anatomy of an Applet
 
 Applets can be thought of in four levels of complexity and three ways of manipulation.  
-![ ](https://v3.gndclouds.cc/content/images/2017/07/Anatomy-of-Applet-2d.png)
+
+![[Applet Anatomy.png]]
 
 **Layer One** - Summary of the function of the Applet
 
@@ -39,19 +38,22 @@ Applets can be thought of in four levels of complexity and three ways of manipul
 
 **Layer Four** - Composition layer where you can create Applets using Triggers, Filters, and Actions
 
-# Build
-
+**Build**
+![[Maker Landing Wireframe.png]]
 Phase two focused on building out the next version of the Maker platform. This was broken into building out the documentation for the new Applet Composer, a Maker community and a new Maker profile.
 
-Maker Community Page  
-![ ](https://v3.gndclouds.cc/content/images/2017/07/Maker-Landing-Wireframe.png)
 
-![ ](https://v3.gndclouds.cc/content/images/2017/07/Screen-Shot-2017-07-12-at-11-09-27-PM.png)
 
-Maker Documentation  
-![ ](https://v3.gndclouds.cc/content/images/2017/07/Screen-Shot-2017-07-12-at-11-09-20-PM.png)
 
-![ ](https://v3.gndclouds.cc/content/images/2017/07/Screen-Shot-2017-07-12-at-11-09-13-PM.png)
+**Maker Documentation**
+![[IFTTT Maker Platform Screenshot.png]]
+Designed the documentation to teach new makers how to create apps for the platform.
+
+
+**Maker Community Page**
+![[Maker Landing Wireframe 1.png]]
+Created the first 20 Applets for the community based on data trends for popular products and services.
+
 
 ## Future Explorations
 

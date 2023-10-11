@@ -97,7 +97,7 @@ funding [research on soil health](https://research-and-innovation.ec.europa.eu/f
 
 - Replenish soil health through we want to rewild
 - Defraud the carbon offset market, through better standards, and monitoring of change in CO to sequestration in the soil of forests
-- Create a database of soil samples that are verified based on properties found in [[Systematic Stable Isotope Testing]], similar to FSC, and their work with forests
+- Create a database of soil samples that are verified based on properties found in [[Systematic-Stable-Isotope-Testing]], similar to FSC, and their work with forests
 - Model of forest and is close to a digital twin as we possibly can
 - Teach farmers, how to create biodynamic farms, which replenish watersheds and restore, nutrients to soil systems
 - Take down, Monsanto literally anything to take down Monsanto maybe we measure the impact of soil quality before, and after the use of their pesticides to create a class action lawsuit that communicates the captive incentive structure that Monsanto place is farmers in
