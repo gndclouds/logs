@@ -1,6 +1,6 @@
 ---
 title: IFTTT Maker Platform
-description: 
+description: Lead user research on the Maker Platform launch. To establish and manage the first community of makers who used IFTTT. Documented and developed case studies to determine how IFTTT’s products could evolve better to match the demand of IOT and affiliated systems. Included is a selected set of works.
 publishedAt: 2017-05-09T00:00:00
 type:
   - Project
@@ -9,11 +9,11 @@ tags:
 url: 
 heroImage:
 ---
-In June 2017 I led user research phase to determine the viability of a new product called [Maker Platform](http://platform.ifttt.com/maker). Established and managed the first community of makers who used IFTTT. Documented and developed case studies to determine how IFTTT’s products could evolve to better match the demand of IOT and affiliated systems. Included is a selected set of work.
+Lead user research on the Maker Platform launch. To establish and manage the first community of makers who used IFTTT. Documented and developed case studies to determine how IFTTT’s products could evolve better to match the demand of IOT and affiliated systems. Included is a selected set of works.
 
 # Intro
 
-During my two-month contract with IFTTT I worked with the Platform team and Marketing team to research a new tool that was being released to makers called the Maker Platform. The tools was a variant of what was offered to IFTTT partners like Nest, Microsoft, etc. with a few modifications. The goal was to research the product with an alpha and beta testing community as it was in active development.
+At IFTTT I worked with the Platform team and Marketing team to research a new tool that was being released to makers called the Maker Platform. The means was a variant of what was offered to IFTTT partners like Nest, Microsoft, etc. with a few modifications. The goal was to research the product with an alpha and beta testing community as it was in active development.
 
 # Research
 ![[IFTTT Community Landscape.png]]
