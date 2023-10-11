@@ -1,7 +1,7 @@
 ---
 title: Slate
 description: Slate is a search tool designed to help you remember and keep track of things you care about on the web.
-publishedAt: 2023-05-09
+publishedAt: 2020-09-14T00:00:00
 type:
   - Project
 published: true
