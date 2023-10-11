@@ -1,7 +1,7 @@
 ---
 title: Earth Directory
 description: A shared source of truth to build a better future.
-publishedAt: 2023-05-09
+publishedAt: 2022-10-16T00:00:00
 type:
   - Project
 published: true
