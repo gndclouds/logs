@@ -1,6 +1,7 @@
 ---
 title: Thoughts on Mentorship vs Apprenticeship
 publishedAt: 2020-08-31T01:00:00
+updatedAt: 2020-08-31T01:00:00
 type:
   - Note
 published: true

@@ -1,6 +1,7 @@
 ---
 title: Screen Reader B2B Market
 publishedAt: 2019-11-24T01:00:00
+updatedAt: 2019-11-24T01:00:00
 type:
   - Note
 published: true

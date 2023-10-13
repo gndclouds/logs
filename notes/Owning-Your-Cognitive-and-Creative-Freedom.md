@@ -1,6 +1,7 @@
 ---
 title: Owning Your Cognitive and Creative Freedom
 publishedAt: 2019-06-05T01:00:00
+updatedAt: 2020-06-05T01:00:00
 type:
   - Note
 published: false

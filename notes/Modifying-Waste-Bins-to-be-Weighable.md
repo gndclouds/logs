@@ -1,6 +1,7 @@
 ---
 title: Modifying Waste Bins to be Weighable
 publishedAt: 2020-01-14T01:00:00
+updatedAt: 2020-01-14T01:00:00
 type:
   - Note
 published: true

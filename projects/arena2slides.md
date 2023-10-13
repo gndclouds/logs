@@ -2,6 +2,7 @@
 title: arena2slides
 description: Make a slide presentation from any are.na collection by pasting the url below.
 publishedAt: 2020-04-24T00:00:00
+updatedAt: 2020-04-24
 type:
   - Project
 published: true

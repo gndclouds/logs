@@ -2,6 +2,7 @@
 title: Galileo Starter Kit
 description: At Intel Labs I worked on the User Experience Research Group's Open Design Team where I focused on researching how Intel could make hardware more approachable to novice makers.
 publishedAt: 2014-05-09T00:00:00
+updatedAt: 2014-05-09T00:00:00
 type:
   - Project
 published: true

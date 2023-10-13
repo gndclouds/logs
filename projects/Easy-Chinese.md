@@ -2,6 +2,7 @@
 title: Easy Chinese
 description: A carefully curated, fun, and pretty flashcards to accelerate your chinese learning from scratch.
 publishedAt: 2020-05-12T00:00:00
+updatedAt: 2020-05-12T00:00:00
 type:
   - Project
 published: true

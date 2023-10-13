@@ -1,6 +1,7 @@
 ---
 title: Mobile Location-Based Map Explorations
 publishedAt: 2023-08-31T01:00:00
+updatedAt: 2023-08-31T01:00:00
 type:
   - Note
 published: false

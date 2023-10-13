@@ -1,9 +1,10 @@
 ---
 title: How we use Glitch, GitHub, & Vercel to collaborate remotely.
 publishedAt: 2020-07-29T01:00:00
+updatedAt: 2020-07-29T01:00:00
 type:
   - Note
-published: false
+published: true
 tags:
 ---
 Over the past few months, our team has been working interdependently and remotely on some web projects and I wanted to share a bit about our current indie pipeline.
