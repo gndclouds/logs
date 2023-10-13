@@ -2,6 +2,7 @@
 title: Whole Person Care
 description: Over the course of eight weeks with the City of San Francisco's Department of Public Health, our team mapped the Medi-Cal enrollment process for homeless in San Francisco Country.
 publishedAt: 2018-05-09T00:00:00
+updatedAt: 2018-05-09T00:00:00
 type:
   - Project
 published: true
