@@ -1,5 +1,5 @@
 ---
-title: PicoGrid
+title: The Evolution of Energy Grids and the Case for Localization
 publishedAt: 2017-09-16T01:00:00
 updatedAt: 2023-10-10T01:00:00
 type:

@@ -1,10 +1,14 @@
 ---
 title: Pico Core
-description: 
+description: The concept of this core is to capture rainwater and sunlight, and store and process them locally so that we don’t waste materials setting up thousands and thousands of miles of pipes and cables. By centralizing utilities such as water storage, energy storage, refrigeration, shower, and bathroom into a single unit, we can enable spaces to be scalable and affordable. This will also allow us to be more resilient to climate change situations such as sea water levels rising.
 publishedAt: 2023-05-09
 type:
   - Project
-published: false
+published: true
 tags: 
 url:
 ---
+projects
+
+
+Reffernces
