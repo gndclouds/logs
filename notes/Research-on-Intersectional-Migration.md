@@ -1,7 +1,7 @@
 ---
 title: Intersectional Migration
-publishedAt: 2023-10-20T01:01:00
-updatedAt: 2023-10-20T01:01:00
+publishedAt: 2023-10-11T01:01:00
+updatedAt: 2023-10-11T01:01:00
 type:
   - Note
 published: true
