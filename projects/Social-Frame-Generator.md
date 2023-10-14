@@ -8,6 +8,6 @@ type:
 published: true
 tags:
   - figma
-url: 
+url: https://www.figma.com
 heroImage: /projects/hero-figpug-social-frame-generator.png
 ---
