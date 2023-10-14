@@ -8,4 +8,5 @@ type:
 published: false
 tags: 
 url: https://tiny.garden
+heroImage: /projects/test-hero-asset.jpg
 ---

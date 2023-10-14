@@ -8,5 +8,5 @@ type:
 published: false
 tags: 
 url: 
-aliases:
+heroImage: /projects/test-hero-asset.jpg
 ---

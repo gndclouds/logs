@@ -8,7 +8,7 @@ type:
 published: true
 tags: 
 url: 
-heroImage:
+heroImage: /projects/test-hero-asset.jpg
 ---
 Over the course of eight weeks with the City of San Francisco's Department of Public Health, our team mapped the Medi-Cal enrollment process for homeless in San Francisco Country.
 

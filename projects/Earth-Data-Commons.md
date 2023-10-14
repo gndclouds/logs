@@ -8,5 +8,5 @@ type:
 published: true
 tags: 
 url: https://data.madefor.earth
-heroImage:
+heroImage: /projects/test-hero-asset.jpg
 ---

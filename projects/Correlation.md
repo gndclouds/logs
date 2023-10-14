@@ -7,7 +7,7 @@ type:
 published: 
 tags: 
 url: 
-heroImage:
+heroImage: /projects/test-hero-asset.jpg
 ---
 
 AI In obsidian to:
