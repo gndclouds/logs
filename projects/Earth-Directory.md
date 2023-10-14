@@ -8,5 +8,5 @@ type:
 published: true
 tags: 
 url: https://earth.directory
-heroImage: /projects/test-hero-asset.jpg
+heroImage: /projects/hero-earth-directory.webp
 ---

@@ -5,7 +5,7 @@ publishedAt: 2023-10-11T00:00:00
 updatedAt: 2023-10-11T00:00:00
 type:
   - Project
-published: true
+published: false
 tags: 
 url: https://api.madefor.earth
 heroImage: /projects/hero-earth-api.png
