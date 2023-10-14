@@ -8,5 +8,5 @@ type:
 published: true
 tags: 
 url: https://www.circulaw.nl/
-heroImage:
+heroImage: /projects/hero-circulaw.png
 ---

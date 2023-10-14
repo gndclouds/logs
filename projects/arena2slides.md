@@ -8,6 +8,6 @@ type:
 published: true
 tags: 
 url: https://arena2slides.herokuapp.com/
-heroImage:
+heroImage: /projects/hero-arena2slide.jpeg
 ---
 Make a slide presentation from any [are.na](https://www.are.na/tiny-factories) collection by pasting the url below.

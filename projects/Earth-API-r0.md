@@ -8,7 +8,7 @@ type:
 published: true
 tags: 
 url: https://api.anthropogenic.com/
-heroImage:
+heroImage: /projects/hero-earth-api.png
 ---
 # Hello Earth
 

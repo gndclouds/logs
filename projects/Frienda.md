@@ -8,5 +8,5 @@ type:
 published: true
 tags: 
 url: https://www.producthunt.com/products/friend-nda-generator#friend-nda-generator
-heroImage:
+heroImage: /projects/hero-fndag.jpeg
 ---

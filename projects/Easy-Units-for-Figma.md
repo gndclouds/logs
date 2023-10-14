@@ -9,7 +9,7 @@ published: true
 tags:
   - figma
 url: https://www.producthunt.com/products/easy-units-for-figma#easy-units-for-figma
-heroImage:
+heroImage: /projects/hero-easy-units.jpeg
 ---
 ![[Easy Units for Figma (1)..avif]]
 

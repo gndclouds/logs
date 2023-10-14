@@ -8,5 +8,5 @@ type:
 published: false
 tags: 
 url: 
-heroImage:
+heroImage: /projects/hero-five-futures.webp
 ---

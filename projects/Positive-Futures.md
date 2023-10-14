@@ -8,5 +8,5 @@ type:
 published: true
 tags: 
 url: https://positivefutur.es
-heroImage:
+heroImage: /projects/hero-positive-futures.webp
 ---
