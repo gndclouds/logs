@@ -8,5 +8,6 @@ type:
 published: true
 tags: 
 url: https://fieldnotes.gndclouds.cc/
-heroImage: /projects/hero-arena2slide.jpeg
+heroImage: /projects/hero-field-notes.jpeg
 ---
+ππ
