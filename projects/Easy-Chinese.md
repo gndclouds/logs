@@ -8,7 +8,7 @@ type:
 published: true
 tags: 
 url: https://easy-chinese.vercel.app/
-heroImage:
+heroImage: /projects/hero-easy-chinese.jpeg
 ---
 ![['Open Graph Tiny Factories.jpeg]]
 # Chinese Flashcards

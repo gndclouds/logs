@@ -8,5 +8,5 @@ type:
 published: true
 tags: 
 url: https://www.producthunt.com/products/social-distancing-works#social-distancing-works
-heroImage:
+heroImage: /projects/hero-social-distancing-works.jpeg
 ---

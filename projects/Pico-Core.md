@@ -7,9 +7,7 @@ type:
   - Project
 published: true
 tags: 
-url:
+url: 
+heroImage: /projects/hero-pico-core.jpeg
 ---
-projects
-
-
-Reffernces
+Pico Core

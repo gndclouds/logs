@@ -1,6 +1,6 @@
 ---
 title: Slate
-description: Slate is a search tool designed to help you remember and keep track of things you care about on the web.
+description: Slate is a fully open-source file sharing network designed for research and collaboration built by Protocol Labs for Filecoin. Store your data, organize it any way you like, and share it with the world securely. Built with Textile, and IPFS.
 publishedAt: 2020-09-14T00:00:00
 updatedAt: 2020-09-14T00:00:00
 type:
@@ -8,5 +8,5 @@ type:
 published: true
 tags: 
 url: https://slate.host
-heroImage:
+heroImage: /projects/hero-slate.jpeg
 ---
