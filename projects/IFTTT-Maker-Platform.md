@@ -8,7 +8,7 @@ type:
 published: true
 tags: 
 url: 
-heroImage: /projects/test-hero-asset.jpg
+heroImage: /projects/hero-ifttt.png
 ---
 Lead user research on the Maker Platform launch. To establish and manage the first community of makers who used IFTTT. Documented and developed case studies to determine how IFTTT’s products could evolve better to match the demand of IOT and affiliated systems. Included is a selected set of works.
 

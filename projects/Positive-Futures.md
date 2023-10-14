@@ -1,6 +1,6 @@
 ---
 title: Positive Futures
-description: A shared source of truth to build a better future. As awareness of the climate crisis increases, so does the noise and origin of information. We are working to make a glossary of terms, agreements, companies, organizations and more.
+description: " It's time to channel our collective curiosity, to explore not just the stars but the boundless potential of our own collaborative efforts. With this in mind, we present our story generator – not just as a whimsical tool, but as a reflection of what we can achieve when we envision and work towards a brighter, shared future."
 publishedAt: 2023-04-28T00:00:00
 updatedAt: 2023-04-28T00:00:00
 type:
@@ -10,5 +10,4 @@ tags:
 url: https://positivefutur.es
 heroImage: /projects/hero-positive-futures.webp
 ---
-
-A shared source of truth to build a better future. As awareness of the climate crisis increases, so does the noise and origin of information. We are working to make a glossary of terms, agreements, companies, organizations and more.
+We stand at a crossroads, fully aware of the challenges ahead but equally equipped with the tools and vision to overcome them. It's time to channel our collective curiosity, to explore not just the stars but the boundless potential of our own collaborative efforts. With this in mind, we present our story generator – not just as a whimsical tool, but as a reflection of what we can achieve when we envision and work towards a brighter, shared future.
