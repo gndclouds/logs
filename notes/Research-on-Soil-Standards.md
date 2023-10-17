@@ -7,9 +7,12 @@ type:
 published: true
 tags:
   - research
+  - methods
+  - measurement
+  - Soil
 ---
 
-
+After encountering the [[SoilGrid]] I wanted to understand how soil quality and certification works. 
 
 >Scientists employ a process called “downscaling” to translate coarse-resolution climate projections into higher-resolution climate data at a scale that resolves the most influential climatic variations and removes biases with respect to historical observations. In general terms, statistical downscaling involves “training” a model on the statistical relationship between a GCM and an observational dataset over a historical period, and then applying that model to generate future predictions.4 The downscaled data can then provide input into downstream impact models and risk assessment (Figure 2).[^1]
 

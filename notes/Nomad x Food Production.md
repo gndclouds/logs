@@ -1,6 +1,6 @@
 ---
 title: Nomad x Food Production
-publishedAt: 2023-03-17T01:00:00
+publishedAt: 2017-03-17T01:00:00
 updatedAt: 2023-03-17T00:00:00
 type:
   - Note
