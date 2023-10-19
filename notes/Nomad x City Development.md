@@ -7,4 +7,5 @@ type:
 published: false
 tags:
 ---
+
 Nomad could leverage real-time data to uncover insights about an urban locale and identify valuable development opportunities.

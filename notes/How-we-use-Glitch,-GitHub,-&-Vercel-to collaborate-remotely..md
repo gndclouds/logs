@@ -17,7 +17,7 @@ Over the past few months, our team has been working interdependently and remotel
 
 ---
 
-## [](https://dev.to/gndclouds/how-we-use-glitch-github-vercel-to-collaborate-remotely-14k5#updating-and-publishing-projects)Updating and publishing projects:
+
 
 Here is an overview of how we publish content remotely with each other through using [Glitch](https://glitch.com/) for development, [Github](https://glitch.com/) for version control, and [Vercel](https://vercel/) for hosting.
 

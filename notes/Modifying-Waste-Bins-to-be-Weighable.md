@@ -12,12 +12,12 @@ _This note is a personal exercise to think more actively about climate change. Y
 A few months back, I learned how [Recology](https://www.recology.com/), a San Francisco-based recycling company, uses computer vision to help [sort our waste](https://www.recyclingproductnews.com/article/32257/recology-adds-max-ai-robotic-sorting-technology-to-pier-96-recycling-center-in-san-francisco). As a result, I did a mini-exploration into how we might hold people more accountable for the waste they generate by charging by weight or, ideally, by materials with the help of computer vision. The idea would be to put a camera system on the truck to track which address is discarding the most waste, recycling, or compost. Then, when the material is deposited into the car, see which corporations contribute the most to the local waste system.
 
 **Modifying Waste Bins**
-![](https://storage.googleapis.com/reading-supply-assets/reading.supply.37eff7aa-4736-4d5d-be24-af28747785c9.png)
+![](https://d2w9rnfcy7mm78.cloudfront.net/7474047/original_0d2e9e1cb039f56914b57b2c9868917a.png?1590736717?bc=0)
 Step one: modify bins with QR codes to identify who owns it and who should be charged for the disposal of its contents.
 ﻿
 
 **Measuring Weight Bin**
-![](https://storage.googleapis.com/reading-supply-assets/reading.supply.d01efd05-082e-4b6f-b553-40b17ebcdfc2.png)
+![](https://d2w9rnfcy7mm78.cloudfront.net/7474045/original_44159e4326e94b31c8beb46637b1e905.png?1590736721?bc=0)
 
 ﻿
 Step two would be using a camera on the collection truck and a scale built into the lift arm to scan the bin and determine the bin's weight. Then, using another camera in the collection portion of the truck, we could check to see what was inside the container before compression of the waste. Then, we can look at what material is being thrown away. However, this would prove complex if items were in bags and raise many privacy concerns regarding the data that would be collected.
