@@ -29,7 +29,7 @@ Many alternatives to IFTTT have focused on features as IFTTT has focused on buil
 
 Applets can be thought of in four levels of complexity and three ways of manipulation.  
 
-![[Applet Anatomy.png]]
+![](https://d2w9rnfcy7mm78.cloudfront.net/7651564/original_616e6eee29c76f3efd693c85a7f5d811.png?1592010897?bc=0)
 
 **Layer One** - Summary of the function of the Applet
 
@@ -40,19 +40,21 @@ Applets can be thought of in four levels of complexity and three ways of manipul
 **Layer Four** - Composition layer where you can create Applets using Triggers, Filters, and Actions
 
 **Build**
-![[Maker Landing Wireframe.png]]
+![](https://d2w9rnfcy7mm78.cloudfront.net/7682326/original_0d44f14c676f660c657a511d97ec5890.png?1592277705?bc=0)
 Phase two focused on building out the next version of the Maker platform. This was broken into building out the documentation for the new Applet Composer, a Maker community and a new Maker profile.
 
 
 
 
 **Maker Documentation**
-![[IFTTT Maker Platform Screenshot.png]]
+![IFTTT Maker Platform Screenshot](https://d2w9rnfcy7mm78.cloudfront.net/7682324/original_3a7a7e873698ef627656deb1ea731870.png?1592277708?bc=0)
+
 Designed the documentation to teach new makers how to create apps for the platform.
 
 
 **Maker Community Page**
-![[Maker Landing Wireframe 1.png]]
+
+![](https://d2w9rnfcy7mm78.cloudfront.net/7682326/original_0d44f14c676f660c657a511d97ec5890.png?1592277705?bc=0)
 Created the first 20 Applets for the community based on data trends for popular products and services.
 
 
