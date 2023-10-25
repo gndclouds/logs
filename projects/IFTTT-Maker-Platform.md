@@ -22,7 +22,7 @@ During the research phase I conducted research interviews to determine how maker
 
 
 ### Evolution of IFTTT FORMULA
-![[Evolution of Formula.png]]
+![](https://d2w9rnfcy7mm78.cloudfront.net/24250379/original_0f1d503adac934bbe23db0da74c7f74b.png?1697735479?bc=0)
 Many alternatives to IFTTT have focused on features as IFTTT has focused on building a network of services users love. This particular project focused on providing and building some of “expected features” back into the IFTTT platform. There was a need to highlight the evolution of the IFTTT formula as part of the research identified a need to contextualize where the IF This Then That formula started and where it is going in order to understand the needed infrastructure to support users.  
 
 ### Anatomy of an Applet

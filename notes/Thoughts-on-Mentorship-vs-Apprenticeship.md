@@ -25,9 +25,8 @@ Craft-based Mentorship** — Here, you are looking to learn from someone because
 **Two sides of mentorship** — I discovered early how I needed to feel like there was an exchange between me and my mentor. Otherwise, the one-sidedness made me feel guilty or reinforced a power structure that made me uneasy. This dynamic was also more complicated for me to find in a company as it could quickly feel like both parties were checking a professional development box.
 
 ### Apprenticeship and Mentors
-
-The most valuable thing I have learned from working with mentors on joint projects or short contracts. Seeing all the soft skills they have picked up around managing tasks, teams, side projects, and expectation management, among others, has often shown me skills I might not have known to ask about. These have always been for short periods but have been some of the most valuable moments. ﻿### Don't idolize your mentor. A common trap I have seen friends fall into is trying to make their hero a mentor. The hero can be a great source of inspiration, but they don't necessarily make good mentors. I would recommend learning from a hero's work, but seek a mentor who you might look up to but don't idealize. Otherwise, you can follow them blindly and diverge from what will make you, well, you. ﻿
-
+The most valuable thing I have learned from working with mentors on joint projects or short contracts. Seeing all the soft skills they have picked up around managing tasks, teams, side projects, and expectation management, among others, has often shown me skills I might not have known to ask about. These have always been for short periods but have been some of the most valuable moments. 
+### Don't idolize your mentor. 
+A common trap I have seen friends fall into is trying to make their hero a mentor. The hero can be a great source of inspiration, but they don't necessarily make good mentors. I would recommend learning from a hero's work, but seek a mentor who you might look up to but don't idealize. Otherwise, you can follow them blindly and diverge from what will make you, well, you. ﻿
 ### Finding a Mentor
-
 The best thing is finding a Trade-based Mentor to help me level my code skills and teach me about running a start-up; at the same time, I am continuing to seek Peer-based mentorship within the [Tiny Factories](https://tinyfactories.space/) community.
