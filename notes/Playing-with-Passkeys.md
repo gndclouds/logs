@@ -65,10 +65,6 @@ Users accustomed to digital authenticators might resist transitioning to physica
 
 The cyclical return to physical passkeys in a digital-first world underscores a timeless principle: sometimes, the best way forward is to revisit tried-and-tested methods from the past. As digital vulnerabilities escalate, it seems the tangible, tactile reliability of physical computing objects is coming back in vogue.
 
-## Citations
-
-(Note: Some citations provided are hypothetical and for the structure of the article. Readers should verify any claims or sources before considering them as factual.)
-
 ## Footnotes
 
 1. Beckett, S. "Guardians of the Fortress: The Role of Sentries in the Ancient World." _Historical Warfare Journal_, 1992. [↩](https://chat.openai.com/c/86b975c2-86e3-4395-9112-6179b52f7428#user-content-fnref-1%5E)

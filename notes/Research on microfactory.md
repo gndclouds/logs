@@ -1,3 +1,11 @@
+---
+title: Research on microfactory
+publishedAt: 
+updatedAt: 
+type: 
+published: 
+tags:
+---
 
 
 

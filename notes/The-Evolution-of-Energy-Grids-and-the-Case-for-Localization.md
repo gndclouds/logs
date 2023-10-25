@@ -69,4 +69,4 @@ While centralized energy grids have served us well for over a century, the chang
 5. "Benefits and Challenges of Distributed Electricity Generation", Union of Concerned Scientists, 2013. [Link](https://www.ucsusa.org/) 
 6. "How much electricity is lost in electricity transmission and distribution in the United States?", U.S. Energy Information Administration, 2020. [Link](https://www.eia.gov/) 
 7. L. Frantzis, S. Graham, R. Katofsky, H. Sawyer, "The Technical and Economic Feasibility of Microgrids", Clean Energy Group, 2011.
-8. P. Asmus, "Microgrids, Virtual Power Plants and Our Distributed Energy Future", The Electricity Journal, 2011.
+8. P. Asmus, "Microgrids, Virtual Power Plants and Our Distributed Energy Future", The Electricity Journal, 2011.π
