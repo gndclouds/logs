@@ -2,8 +2,8 @@
 title: Are.na Frame
 publishedAt: 2023-09-30T01:00:00
 type:
-  - Note
-published: true
+  - Log
+published: false
 tags:
   - physical-computing
 ---

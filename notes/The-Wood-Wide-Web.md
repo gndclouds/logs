@@ -26,8 +26,6 @@ The term "wood wide web" is often used metaphorically to describe the intricate 
 
 While these methods don't "measure" the wood wide web in a conventional sense, they provide insights into its existence, functioning, and ecological significance in forest ecosystems.
 
-Certainly! Here are a few research papers and articles related to the wood wide web and mycorrhizal networks that you can explore for more in-depth information:
-
 1. Smith, S. E., & Read, D. J. (2008). Mycorrhizal Symbiosis. Academic Press.
 
     - This comprehensive book on mycorrhizal symbiosis includes information on the wood wide web.
