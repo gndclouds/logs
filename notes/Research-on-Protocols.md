@@ -38,12 +38,3 @@ The history of web protocols is a vast topic, and it traces back the origins of 
 - **Origins**: Introduced in the 1980s.
 - **Function**: DNS translates domain names to IP addresses so browsers can load resources. It's essentially the phonebook of the internet.
 
-
-
-```dataview
-TABLE type
-
-FROM "/"
-
-WHERE contains(tags, "protocols")
-```

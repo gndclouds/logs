@@ -24,7 +24,7 @@ The term "wood wide web" is often used metaphorically to describe the intricate 
 5. **Ecological Impact:** Assessing the ecological impact of the wood wide web involves studying how it influences forest health, diversity, and resilience to disturbances.
 
 
-While these methods don't "measure" the wood wide web in a conventional sense, they provide insights into its existence, functioning, and ecological significance in forest ecosystems.
+While these methods don't "measure" the wood wide web in a conventional sense, they provide insights into its existence, functioning, and ecological significance in forest ecosystems.π
 
 1. Smith, S. E., & Read, D. J. (2008). Mycorrhizal Symbiosis. Academic Press.
 
