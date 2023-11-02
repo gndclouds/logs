@@ -1,7 +1,6 @@
 ---
 title: Experimenting with directNavigation()
 publishedAt: 2020-06-22T01:00:00
-updatedAt: 2022-06-22T01:00:00
 type:
   - Log
 published: false
