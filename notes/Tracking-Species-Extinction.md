@@ -11,7 +11,7 @@ tags:
 
 I started Reading [[Insolvent]] and got onto a research thread based on this quote.
 
-<blockquote class="quoteback" darkmode="" data-title="Insolvent" data-author="Christopher Becker" cite="Highlight](https://read.readwise.io/read/01hbv9j393vmv6fybqqc0tbvp1)">
+<blockquote className="quoteback" darkmode="" data-title="Insolvent" data-author="Christopher Becker" cite="Highlight](https://read.readwise.io/read/01hbv9j393vmv6fybqqc0tbvp1)">
 *One million animal and plant species are now on the fast track to extinction*
 <footer>Christopher Becker<cite> <a href="Highlight](https://read.readwise.io/read/01hbv9j393vmv6fybqqc0tbvp1)">Highlight](https://read.readwise.io/read/01hbv9j393vmv6fybqqc0tbvp1)</a></cite></footer>
 </blockquote>
@@ -19,7 +19,7 @@ I started Reading [[Insolvent]] and got onto a research thread based on this quo
 
 That number feels so massive. So, I started a little research rabbit hole and Twitter thread. And I have created a list of organizations in the space of tracking datasets related to Species Extinction.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Community Request: Looking for a database of species and their rate of extinction if anyone knows of or comes across one.</p>&mdash; gndclouds 🌿🍄🌎🍵 (@gndclouds) <a href="https://twitter.com/gndclouds/status/1709261520293736516?ref_src=twsrc%5Etfw">October 3, 2023</a></blockquote>
+<blockquote className="twitter-tweet"><p lang="en" dir="ltr">Community Request: Looking for a database of species and their rate of extinction if anyone knows of or comes across one.</p>&mdash; gndclouds 🌿🍄🌎🍵 (@gndclouds) <a href="https://twitter.com/gndclouds/status/1709261520293736516?ref_src=twsrc%5Etfw">October 3, 2023</a></blockquote>
 
 # Organizations:
 
