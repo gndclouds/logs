@@ -2,8 +2,9 @@
 title: Research on microfactory
 publishedAt: 
 updatedAt: 
-type: 
-published: 
+type:
+  - Note
+published: false
 tags:
 ---
 
