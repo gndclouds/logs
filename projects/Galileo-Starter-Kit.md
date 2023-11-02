@@ -6,7 +6,6 @@ updatedAt: 2014-05-09T00:00:00
 type:
   - Project
 published: true
-tags: 
 url: 
 heroImage: /projects/hero-galileo-starter-kit.gif
 ---

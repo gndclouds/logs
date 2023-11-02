@@ -6,7 +6,6 @@ updatedAt: 2022-06-15T00:00:00
 type:
   - Project
 published: true
-tags: 
 url: https://api.anthropogenic.com/
 heroImage: /projects/hero-earth-api.png
 ---

@@ -5,7 +5,6 @@ updatedAt: 2023-10-10T01:01:00
 type:
   - Note
 published: true
-tags:
 ---
 Some way of referring to or defining the direction of these projects:
 

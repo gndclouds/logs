@@ -5,7 +5,6 @@ updatedAt: 2020-08-31T01:00:00
 type:
   - Note
 published: true
-tags:
 ---
 I started to seek mentorship this past year after feeling stuck in my career. In college, mentorship always felt natural; I reached out to professors and kept reaching out to those with whom I shared similar headspace. But after graduation, those relationships evolved, and I tended to get assigned a mentor from work. In my experience, it often felt like a forced relationship, especially when your manager is made your mentor. This always created an uncomfortable power dynamic, especially if I’m seeking advice that might involve me leaving that company, which is why I have been seeking mentorship outside of my place of work.
 

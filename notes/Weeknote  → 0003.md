@@ -4,9 +4,7 @@ publishedAt: 2022-07-25T01:00:00
 updatedAt: 2022-07-25T00:00:00
 type:
   - Note
-published: true
-tags:
-  - week-note
+published: false
 ---
 _Hello and welcome to our community Weeknotes. Anthropogenic's weekly letter summarizing what our team has been reading, watching, and learning about as we build products focused on the reduction of greenhouse gas emissions. If you want to keep up to date with future weeknotes please be sure to subscribe._
 

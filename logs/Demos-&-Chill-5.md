@@ -3,8 +3,7 @@ title: Demos & Chill 5
 publishedAt: 2023-10-07T01:00:00
 type:
   - Log
-published: true
-tags:
+published: false
 ---
 @SDG
 

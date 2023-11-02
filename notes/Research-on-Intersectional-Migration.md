@@ -5,7 +5,6 @@ updatedAt: 2023-10-11T01:01:00
 type:
   - Note
 published: false
-tags:
 ---
 
 A variety of species surrounds us, and yet the focus of our attention tends to be on our species. As we make our way through our day, year, and life, we are crossing paths with numerous species.

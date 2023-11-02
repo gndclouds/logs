@@ -6,7 +6,6 @@ updatedAt: 2020-09-14T00:00:00
 type:
   - Project
 published: true
-tags: 
 url: https://slate.host
 heroImage: /projects/hero-slate.jpeg
 ---

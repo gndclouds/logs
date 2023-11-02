@@ -4,8 +4,7 @@ publishedAt: 2019-06-05T01:00:00
 updatedAt: 2020-06-05T01:00:00
 type:
   - Note
-published: false
-tags:
+published: true
 ---
 Starting today, I will focus on regaining my cognitive and creative freedom as an Entrepreneur. This means that instead of treating personal projects as side projects, they will be what I dedicate my time to daily. Over the next year, I will work with a group of people to launch small products as part of a tribe we are calling [Tiny Factories](https://v5.gndclouds.cc/owning-your-cognitive-and-creative-freedom/). We are all writing about why we need to make this jump, and you can read more about the other team members, [Tomo](https://v5.gndclouds.cc/owning-your-cognitive-and-creative-freedom/) and [Weiwei](https://v5.gndclouds.cc/owning-your-cognitive-and-creative-freedom/). Please keep reading for my take on why now is the right time to jump!
 

@@ -5,8 +5,6 @@ updatedAt: 2023-09-19T01:00:00
 type:
   - Note
 published: true
-tags:
-  - research
 ---
 
 

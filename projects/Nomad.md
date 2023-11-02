@@ -6,7 +6,6 @@ updatedAt: 2018-06-14T00:00:00
 type:
   - Project
 published: true
-tags: 
 url: https://github.com/IDEO-coLAB/nomad
 heroImage: /projects/hero-nomad.jpeg
 ---

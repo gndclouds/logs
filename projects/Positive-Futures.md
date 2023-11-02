@@ -6,7 +6,6 @@ updatedAt: 2023-04-28T00:00:00
 type:
   - Project
 published: true
-tags: 
 url: https://positivefutur.es
 heroImage: /projects/hero-positive-futures.webp
 ---

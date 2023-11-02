@@ -6,7 +6,6 @@ updatedAt: 2020-04-24
 type:
   - Project
 published: true
-tags: 
 url: https://arena2slides.herokuapp.com/
 heroImage: /projects/hero-arena2slide.jpeg
 ---

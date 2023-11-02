@@ -5,8 +5,6 @@ updatedAt: 2023-09-06T01:00:00
 type:
   - Note
 published: true
-tags:
-  - log/learning
 ---
 # Web One
 

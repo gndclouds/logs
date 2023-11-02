@@ -5,8 +5,6 @@ updatedAt: 2023-09-06T01:00:00
 type:
   - Note
 published: true
-tags:
-  - research
 ---
 Forest Stewardship Council [[FSC]] has a [wood identification technique](https://connect.fsc.org/innovation-sustainability/wood-identification-techniques) that uses systematic stable isotope testing to create an identifier for matching the source used in furniture with a soured location like a forest. It is a new but promising way of detecting fraudulent wood sourcing, and I'm curious how other insurers could work. By analyzing the ratios of stable isotopes present in wood, scientists can determine where the wood was grown, helping to ensure that it comes from sustainable and certified sources. Here's a general overview of how the method works:
 

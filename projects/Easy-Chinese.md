@@ -6,7 +6,6 @@ updatedAt: 2020-05-12T00:00:00
 type:
   - Project
 published: true
-tags: 
 url: https://easy-chinese.vercel.app/
 heroImage: /projects/hero-easy-chinese.jpeg
 ---

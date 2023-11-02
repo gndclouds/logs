@@ -4,8 +4,6 @@ publishedAt: 2023-09-30T01:00:00
 type:
   - Log
 published: false
-tags:
-  - physical-computing
 ---
 
 

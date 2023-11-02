@@ -5,9 +5,8 @@ updatedAt: 2023-06-08T01:00:00
 type:
   - Note
 published: true
-tags:
 ---
-## Introduction
+# Introduction
 
 In an era dominated by digital technology, there's a palpable shift in the wind, hinting at a return to physical computing objects for authentication. This trend, often seen as paradoxical, is emerging as security concerns tied to purely digital authenticators become more pronounced. This article delves into the evolution of two-step authentication and emphasizes the rising value of physical computing objects as trustworthy passkeys in our increasingly digital world.
 

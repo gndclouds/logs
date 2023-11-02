@@ -6,8 +6,6 @@ updatedAt: 2020-05-12T00:00:00
 type:
   - Project
 published: true
-tags:
-  - figma
 url: https://www.producthunt.com/products/easy-units-for-figma#easy-units-for-figma
 heroImage: /projects/hero-easy-units.jpeg
 ---

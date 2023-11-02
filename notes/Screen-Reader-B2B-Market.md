@@ -5,8 +5,6 @@ updatedAt: 2019-11-24T01:00:00
 type:
   - Note
 published: false
-tags:
-  - research
 ---
 # Overview
 

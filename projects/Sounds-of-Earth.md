@@ -6,7 +6,6 @@ updatedAt: 2023-05-09T00:00:00
 type:
   - Project
 published: true
-tags: 
 url: 
 heroImage: /projects/test-hero-asset.jpg
 ---

@@ -5,7 +5,6 @@ updatedAt: 2022-06-22T01:00:00
 type:
   - Log
 published: false
-tags: 
 url: https://dev.to/gndclouds/experimenting-with-directnavigation-140n
 ---
 In an early build of [are.na](http://are.na/), you could click on the channel name to edit it. Although it was a little hard to discover this feature and it was ultimately removed. It always felt rather delightful to edit content without the need for clicking on an icon or opening an editor.

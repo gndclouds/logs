@@ -6,7 +6,6 @@ updatedAt: 2018-05-09T00:00:00
 type:
   - Project
 published: true
-tags: 
 url: https://sf-wpc.gitbooks.io/fieldguide/content/
 heroImage: /projects/hero-whole-person-care.jpeg
 ---

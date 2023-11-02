@@ -6,7 +6,6 @@ updatedAt: 2017-02-18T00:00:00
 type:
   - Project
 published: true
-tags: 
 url: https://www.youtube.com/watch?v=4gvrxHQs620
 heroImage: /projects/hero-a-eye.jpeg
 ---

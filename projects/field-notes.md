@@ -6,8 +6,6 @@ updatedAt: 2021-04-24T00:00:00
 type:
   - Project
 published: true
-tags: 
 url: https://fieldnotes.gndclouds.cc/
 heroImage: /projects/hero-field-notes.jpeg
 ---
-ππ

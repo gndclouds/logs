@@ -6,7 +6,6 @@ updatedAt: 2017-05-09T00:00:00
 type:
   - Project
 published: true
-tags: 
 url: 
 heroImage: /projects/hero-ifttt.png
 ---

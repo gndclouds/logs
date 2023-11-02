@@ -4,8 +4,7 @@ publishedAt: 2023-10-11T01:01:00
 updatedAt: 2023-10-11T01:01:00
 type:
   - Note
-public: 
-tags:
+public:
 ---
 
 Progress studies 

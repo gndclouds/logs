@@ -6,7 +6,6 @@ updatedAt: 2023-10-11T00:00:00
 type:
   - Project
 published: false
-tags: 
 url: https://data.madefor.earth
 heroImage: /projects/test-hero-asset.jpg
 ---

@@ -5,8 +5,6 @@ updatedAt: 2023-10-02T00:00:00
 type:
   - Note
 published: true
-tags:
-  - 🏛-technology
 ---
 
 house is a project from [o.0](https://web.archive.org/web/20190129225952/http://gndclouds.cc/house/ohdotzero.co) (oh dot zero) focused on the long-term dwelling of humans on Earth. Phase one is a year-long research phase looking at how to decentralize all public utilities. We are working with [Utopia](https://web.archive.org/web/20190129225952/http://gndclouds.cc/house/#), [Stone Edge Micro-grid](https://web.archive.org/web/20190129225952/http://gndclouds.cc/house/#), and [Center for Art and Public Life](https://web.archive.org/web/20190129225952/http://gndclouds.cc/house/#) at [California College of the Arts](https://web.archive.org/web/20190129225952/http://gndclouds.cc/house/#) to bring this into the world.

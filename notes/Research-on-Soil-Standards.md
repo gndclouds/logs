@@ -5,11 +5,6 @@ updatedAt: 2022-12-01T01:00:00
 type:
   - Note
 published: true
-tags:
-  - research
-  - methods
-  - measurement
-  - Soil
 ---
 
 After encountering the [[SoilGrid]] project, I wanted to understand how soil quality and certification works, so this is a little summary of my research.

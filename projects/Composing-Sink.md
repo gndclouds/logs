@@ -6,8 +6,6 @@ updatedAt: 2022-10-10T00:00:00
 type:
   - Project
 published: true
-tags:
-  - localization
 url: 
 heroImage: /projects/hero-composing-sink.jpeg
 ---

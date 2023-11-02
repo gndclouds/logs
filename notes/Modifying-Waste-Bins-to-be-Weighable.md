@@ -5,7 +5,6 @@ updatedAt: 2020-01-14T01:00:00
 type:
   - Note
 published: true
-tags:
 ---
 _This note is a personal exercise to think more actively about climate change. You can see a complete list of related thoughts_ [_here_](http://gndclouds.cc/)_._
 

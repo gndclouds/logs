@@ -5,7 +5,6 @@ updatedAt:
 type:
   - Note
 published: false
-tags:
 ---
 
 
