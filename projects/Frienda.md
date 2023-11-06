@@ -5,7 +5,7 @@ publishedAt: 2019-08-22T01:00:00
 updatedAt: 2019-08-22T01:00:00
 type:
   - Project
-published: true
+published: false
 url: https://www.producthunt.com/products/friend-nda-generator#friend-nda-generator
 heroImage: /projects/hero-fndag.jpeg
 ---
