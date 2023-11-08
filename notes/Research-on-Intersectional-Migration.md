@@ -12,7 +12,7 @@ A variety of species surrounds us, and yet the focus of our attention tends to b
 To learn more about who they are and how our patterns intersect, we made a map that visualized our intersections based on the time of year and location.    
 
 
-Why
+# Why
 
 An exploration of the #unseen-seen by showing us what other species we share our environment with seasonally. 
 
@@ -20,13 +20,12 @@ To start, we are making a map site that shows your location and allows you to se
 
 
 
-History of 
+# History
 
 
 Next, you can see species that should be around you based on the current date. It would be cool to integrate with naturists to encourage members to capture species as they notice them. Drawing influence from  Pokédex and [Ash](https://www.finh.cc/ash), you could collect stamps when you upload an image from your device that documents a species. 
 
 
-What we built 
 
 
 
