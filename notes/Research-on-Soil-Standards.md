@@ -16,7 +16,7 @@ National Space agencies are using data lights to fill in the gaps in global clim
 
 ## Mapping
 
-[[places/Archive/CarbonPlan]] and [[SoilGrid]] practice downscaling to compensate for the lack of data density around soil measurement areas.
+[[CarbonPlan]] and [[SoilGrid]] practice downscaling to compensate for the lack of data density around soil measurement areas.
 
 >GCMs subdivide the planet into pixels and yield a projection of the future climate for each pixel on every day. Depending on the GCM, a pixel might be ~1-2 deg on a side, or about 100-200 km at the equator.[^1]
 
@@ -33,7 +33,7 @@ It would be interesting to attend this conference. Still, it and the [[Standardi
 
 ## Standards
 
-I am still looking into the standards used, but there are two (SOUCE) very manual ways of accounting for soil sample collection. There was a [[U.S. Soil Enrichment Protocol]] created, but there is some controversy[^5] around the organization that funded the research, according to [[places/Archive/CarbonPlan]]. In [[A buyer’s guide to soil carbon offsets]] they reference how most existing protocols focus specifically on identifying how much carbon is captured. They don't necessarily account for total soil health. This seems to be because the focus is on carbon sequestration through agriculture and emergent funding around that through purchasing carbon offsets. However, I'm still looking for a standard that identifies explicitly the soil health or the regional health of an ecosystem in a way that is measured. They later published additional changes in *[[Additions to Our Analysis of Soil Carbon Protocols]]* and recommended some updates to the protocols.
+I am still looking into the standards used, but there are two (SOUCE) very manual ways of accounting for soil sample collection. There was a [[U.S. Soil Enrichment Protocol]] created, but there is some controversy[^5] around the organization that funded the research, according to [[CarbonPlan]]. In [[A buyer’s guide to soil carbon offsets]] they reference how most existing protocols focus specifically on identifying how much carbon is captured. They don't necessarily account for total soil health. This seems to be because the focus is on carbon sequestration through agriculture and emergent funding around that through purchasing carbon offsets. However, I'm still looking for a standard that identifies explicitly the soil health or the regional health of an ecosystem in a way that is measured. They later published additional changes in *[[Additions to Our Analysis of Soil Carbon Protocols]]* and recommended some updates to the protocols.
 
 [[Pony Earth]] is working on collecting data from farms and using the data to make art as a way to fund the project and work on regenerating farms.
 
@@ -86,7 +86,7 @@ I need more research but here are some of the current major funders. NASA, USDA,
 
 - Replenish soil health through what we want to rewild.
 - Defraud the carbon offset market through better standards and monitoring of change in CO to sequestration in the soil of forests.
-- Create a database of soil samples that are verified based on properties found in [[Systematic-Stable-Isotope-Testing]], similar to FSC, and their work with forests.
+- Create a database of soil samples that are verified based on properties found in [[learning-logs/notes/Systematic-Stable-Isotope-Testing]], similar to FSC, and their work with forests.
 - Model of forest and is as close to a digital twin as we possibly can
 - Teach farmers, how to create biodynamic farms, which replenish watersheds and restore, nutrients to soil systems.
 - Take down, Monsanto literally anything to take down Monsanto maybe we measure the impact of soil quality before, and after the use of their pesticides to create a class action lawsuit that communicates the captive incentive structure that Monsanto places its farmers.
